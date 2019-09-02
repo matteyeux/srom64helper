@@ -1,6 +1,8 @@
 # srom64helper
 IDA loader for Apple's SecureROM
 
+<p align="center"><img src="loader.png"/></p>
+
 ### Installation
 
 Copy `srom64helper.py` to the `loaders` folder in IDA directory.
